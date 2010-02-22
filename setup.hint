@@ -1,4 +1,4 @@
 category: Databse PHP
-requires: cygwin libmdb0 php
+requires: libmdb0 php
 sdesc: "PHP MDBtools bindings"
 ldesc: "PHP MDBtools bindings"
